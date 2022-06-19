@@ -16,5 +16,9 @@
   "devDependencies": {
     "eslint": "8.18.0",
     "eslint-config-next": "12.1.6"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/emon007654/bikeWebsite.git",
+  "author": "emonislam <emonislam520499@gmail.com>",
+  "license": "MIT"
 }
